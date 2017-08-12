@@ -1,0 +1,2 @@
+# teknisikediri
+file.js
